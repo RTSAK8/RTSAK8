@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github
 
-<!--
-**RTSAK8/RTSAK8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Akiです
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------
+
+- 🔭 I’m a student of AI
+- 🌱 I’m currently learning Deep Learning
+- 👯 I’m still in study, if you found any wrong in my project, tell me please
+
+### About My Github
+
+------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTSAK8)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RTSAK8&theme=calm_pink&show_icons=true)
+
+Followings are my best projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTSAK8&repo=kaiser&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
