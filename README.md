@@ -1,5 +1,11 @@
-### Hi there 👋 Welcome to my Github
+<h1 align="center">
+  ようこそ 🔮 わたしの世界へ
+</h1>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/RTSAK8/count.svg" />
+</p>
 
 ### Akiです
 
