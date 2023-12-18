@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/RTSAK8/count.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RTSAK8&theme=calm_pink&show_icons=true"/> 
 </p>
 
 ### Akiです
@@ -19,10 +18,16 @@
 
 ------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTSAK8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTSAK8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RTSAK8&theme=calm_pink&show_icons=true)
+
 
 Followings are my best projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTSAK8&repo=kaiser&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+
+<h4 align="center"> Thanks for visiting :heart: </h4>
+<p align="center"> 
+  <br>
+  <img src="https://profile-counter.glitch.me/RTSAK8/count.svg" />
+</p>
