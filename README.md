@@ -14,6 +14,8 @@
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m still in study, if you found any wrong in my project, tell me please
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=RTSAK8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### About My Github
 
 ------
