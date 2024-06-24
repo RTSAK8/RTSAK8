@@ -26,7 +26,8 @@
 
 Followings are my best projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTSAK8&repo=kaiser&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTSAK8&repo=kaiser&theme=neon)](https://github.com/RTSAK8/Kaiser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RTSAK8&repo=LLM-A-D&theme=neon)](https://github.com/RTSAK8/LLM-A-D)
 
 <h4 align="center"> Thanks for visiting :heart: </h4>
 <p align="center"> 
